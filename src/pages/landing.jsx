@@ -1,12 +1,8 @@
 import React from 'react'
-
+import Navbar from '../components/Navbar.js'
 const Landing = () => {
   return (
-    <div>
-      <h1>
-        Scrapbook
-      </h1>
-    </div>
+    <Navbar />
   )
 }
 
